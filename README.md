@@ -1,5 +1,22 @@
 # IRCTC Booking System (WorkIndia Assignment)
-I have completed this interesting assignmend given by Workindia, 
+I have completed this interesting assignmend given by Workindia. Worked well on each required statement of the assignment.
+
+- Implement JWT Authentication for User Authentication
+- API key Authentication for the Admin Site (Add header `X-IRCTC-API-KEY-SECRET` in the All admin API's)
+- Handles race conditions while booking
+    - If more than 1 users simultaneously try to book seats, only either one of the users should be able to book (By adding database lock)
+- Focused on code quality and vaidation
+
+## Assumptions
+
+- Train is running only between source and destination
+
+
+## Tech Stack Used
+
+- Python
+- Django
+- MySQL
 
 ## Steps To Setup Project
 
