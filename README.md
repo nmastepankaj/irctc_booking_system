@@ -83,13 +83,27 @@ The app defines following CRUD APIs.
 
 
 ## Screenshots of the working API
-![Screenshot (1009)](https://github.com/nmastepankaj/irctc_booking_system/assets/68346633/d5c2640a-364f-4fcf-817f-3deaad5c5cca)
+
+- Login User
 ![Screenshot (1008)](https://github.com/nmastepankaj/irctc_booking_system/assets/68346633/2f775b68-4d11-4c1e-b8d3-38901d2407de)
+
+- Register User
 ![Screenshot (1007)](https://github.com/nmastepankaj/irctc_booking_system/assets/68346633/40a1b32c-7dc4-4946-b8a7-089125d2ab33)
-![Screenshot (1014)](https://github.com/nmastepankaj/irctc_booking_system/assets/68346633/3adb1754-7709-4142-86ac-abb707b30d96)
-![Screenshot (1013)](https://github.com/nmastepankaj/irctc_booking_system/assets/68346633/e7496fb5-027c-4149-b6f2-a9c5768dea2d)
-![Screenshot (1012)](https://github.com/nmastepankaj/irctc_booking_system/assets/68346633/e9a8f553-7dfd-413c-a92a-0c43add39493)
-![Screenshot (1011)](https://github.com/nmastepankaj/irctc_booking_system/assets/68346633/eecdf245-e9cd-4fd9-b99a-2b18850ac202)
+
+- Book Ticket API
+![Screenshot (1009)](https://github.com/nmastepankaj/irctc_booking_system/assets/68346633/d5c2640a-364f-4fcf-817f-3deaad5c5cca)
+
+- Get train between source and destination
 ![Screenshot (1010)](https://github.com/nmastepankaj/irctc_booking_system/assets/68346633/8494633e-2be0-405f-b073-6633163c4d36)
 
+- Get Booking Details
+![Screenshot (1011)](https://github.com/nmastepankaj/irctc_booking_system/assets/68346633/eecdf245-e9cd-4fd9-b99a-2b18850ac202)
 
+- Add Train
+![Screenshot (1012)](https://github.com/nmastepankaj/irctc_booking_system/assets/68346633/e9a8f553-7dfd-413c-a92a-0c43add39493)
+
+- Add Train Schedule
+![Screenshot (1013)](https://github.com/nmastepankaj/irctc_booking_system/assets/68346633/e7496fb5-027c-4149-b6f2-a9c5768dea2d)
+
+- Update Train Schedule
+![Screenshot (1014)](https://github.com/nmastepankaj/irctc_booking_system/assets/68346633/3adb1754-7709-4142-86ac-abb707b30d96)
