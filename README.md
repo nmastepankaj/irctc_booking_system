@@ -76,6 +76,9 @@ Run your project
 
 Now your application is ready to use. First register a user and login with the provided credentials.
 
+To access the Admin API you need to create token ( using function `generate_api_key` present in `utils/token.py`) and add to the db `AdminSecret` manually.
+To access the user API you need to register then login where you get the access token. Then you this token for user api which starts with `/api/user/`
+
 
 ## API Endpoints
 
